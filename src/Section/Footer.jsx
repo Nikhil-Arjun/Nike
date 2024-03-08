@@ -64,6 +64,11 @@ export default function Footer() {
           <p>Copyright. All rights reserved.</p>
         </div>
         <p className="font-montserrat cursor-pointer">Terms & Conditions</p>
+        <div>
+          <p className="font-montserrat cursor-pointer">
+            Build by - Nikhil Arjun
+          </p>
+        </div>
       </div>
     </footer>
   );
